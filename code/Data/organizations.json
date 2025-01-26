@@ -1,0 +1,158 @@
+[
+  {
+    "idOrganization": "2",
+    "name": "Green Energy Solutions",
+    "description": "A company focused on renewable energy and sustainability, providing solar, wind, and hydro solutions.",
+    "sites": [
+      {
+        "idSite": "1",
+        "idOrganization": "2",
+        "address": "Solar 2Avenue, Green City, GC 54321",
+        "description": "Primary office for solar energy projects.",
+        "name": "Green Energy Main Office"
+      },
+      {
+        "idSite": "df2e2cf4-c31d-4c59-a129-7fe17de2401c",
+        "idOrganization": "2",
+        "address": "Windmill Road, Wind City, WC 12345",
+        "description": "Wind energy projects site.",
+        "name": "Wind Energy Hub"
+      }
+    ],
+    "managementSystems": [
+      {
+        "idManagementSystem": "4",
+        "idOrganization": "2",
+        "description": "Occupational Health and Safety Management System for employee safety.",
+        "certificate": "ISO45001-Certified",
+        "standards": [
+          {
+            "idStandard": "4",
+            "idOrganization": "2",
+            "idManagementSystem": "4",
+            "name": "ISO 45001",
+            "description": "ISO 45001 Occupational Health and Safety Management System",
+            "reference": "ISO 45001:2018",
+            "clauses": [
+              {
+                "idClause": "5.1",
+                "idManagementSystem": "4",
+                "idOrganization": "2",
+                "idStandard": "4",
+                "name": "Leadership and Worker Participation",
+                "description": "Ensuring leadership commitment and worker participation in health and safety matters.",
+                "reference": "ISO 45001:2018 Clause 5.1"
+              },
+              {
+                "idClause": "11fac8ee-948e-4813-8a80-9e4976f0f23c",
+                "idManagementSystem": "4",
+                "idOrganization": "2",
+                "idStandard": "4",
+                "name": "Emergency Response",
+                "description": "Develop emergency preparedness and response procedures.",
+                "reference": "ISO 45001:2018 Clause 8.2"
+              }
+            ]
+          }
+        ],
+        "requirements": [
+          {
+            "idRequirement": "6",
+            "idManagementSystem": "4",
+            "idOrganization": "2",
+            "description": "Emergency response requirements for workplace incidents.",
+            "reference": "Emergency Response Policy",
+            "name": "Emergency Response"
+          }
+        ]
+      }
+    ],
+    "orgProcesses": []
+  },
+  {
+    "idOrganization": "938d3e0f-c702-4928-afce-298ef42baea2",
+    "name": "GreenTech Innovations",
+    "description": "A leading company in sustainable technology innovations.",
+    "sites": [],
+    "managementSystems": [],
+    "orgProcesses": []
+  },
+  {
+    "idOrganization": "d394492f-b5ab-4f82-9f48-37e8b0d306f5",
+    "name": "EcoLife Technologies",
+    "description": "An organization focusing on eco-friendly solutions for the tech industry.",
+    "sites": [],
+    "managementSystems": [],
+    "orgProcesses": []
+  },
+  {
+    "idOrganization": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+    "name": "TechGreen Solutions",
+    "description": "An environmental tech company dedicated to providing innovative green solutions in energy efficiency.",
+    "sites": [
+      {
+        "idSite": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+        "idOrganization": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+        "address": "Energy Drive, Silicon Valley, CA 94043",
+        "description": "Headquarters for energy-efficient products and services.",
+        "name": "TechGreen Headquarters"
+      }
+    ],
+    "managementSystems": [
+      {
+        "idManagementSystem": "a1b2c3d4-e5f6-7890-gh12-ijklmn34567",
+        "idOrganization": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+        "description": "ISO 50001 Energy Management System for optimized energy usage and reduction.",
+        "certificate": "ISO50001-Certified",
+        "standards": [
+          {
+            "idStandard": "ISO50001",
+            "idOrganization": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+            "idManagementSystem": "a1b2c3d4-e5f6-7890-gh12-ijklmn34567",
+            "name": "ISO 50001",
+            "description": "Energy Management Standard to reduce energy costs and environmental impact.",
+            "reference": "ISO 50001:2018",
+            "clauses": [
+              {
+                "idClause": "6.1",
+                "idManagementSystem": "a1b2c3d4-e5f6-7890-gh12-ijklmn34567",
+                "idOrganization": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+                "idStandard": "ISO50001",
+                "name": "Energy Planning",
+                "description": "Establishing energy performance indicators and setting energy targets.",
+                "reference": "ISO 50001:2018 Clause 6.1"
+              }
+            ]
+          }
+        ],
+        "requirements": [
+          {
+            "idRequirement": "1",
+            "idManagementSystem": "a1b2c3d4-e5f6-7890-gh12-ijklmn34567",
+            "idOrganization": "7c3b2a58-cf9f-4b2c-9135-e25f5d3ab823",
+            "description": "Establish energy-saving initiatives and monitor usage across all processes.",
+            "reference": "Energy Efficiency Policy",
+            "name": "Energy Efficiency"
+          }
+        ]
+      }
+    ],
+    "orgProcesses": []
+  },
+  {
+    "idOrganization": "c8d7a45b-14a5-4c2b-9b4d-f77443127f67",
+    "name": "SolarTech Solutions",
+    "description": "A provider of solar energy systems for residential and commercial installations.",
+    "sites": [
+      {
+        "idSite": "1",
+        "idOrganization": "c8d7a45b-14a5-4c2b-9b4d-f77443127f67",
+        "address": "Solar Street, Green Park, GP 67890",
+        "description": "Main office for solar panel manufacturing and installations.",
+        "name": "SolarTech Main Office"
+      }
+    ],
+    "managementSystems": [],
+    "orgProcesses": []
+  }
+]
