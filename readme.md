@@ -90,6 +90,7 @@ The system design is documented using **UML diagrams**, including:
 
 - [Ayoub Majjid](https://www.linkedin.com/in/youbista/)
 - [Iliass Wakkar](https://www.linkedin.com/in/iliass-wakkar/)
+- [Rochdi Mohamed Amine](https://www.linkedin.com/in/rocmine/)
 
 ---
 
