@@ -4,6 +4,8 @@
 ###Admin Dashboard 
 ![ AdminDashboard](logo.png)
 
+- [linkedin post](https://www.linkedin.com/posts/youbista_java-auditmanagement-json-activity-7289340095797559298-ZMFj?utm_source=share&utm_medium=member_desktop)
+
 This project is an **Audit Management System** designed to help organizations efficiently manage audits, auditors, and compliance with recognized standards. The system provides a user-friendly interface with features for managing audit processes, generating reports, and tracking corrective actions. The application is built using **Java** for the desktop environment, ensuring robust performance and ease of use for audit teams. Data is stored and managed using **JSON** files, making it lightweight and easy to deploy.
 
 ---
